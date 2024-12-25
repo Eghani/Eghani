@@ -1,7 +1,12 @@
 # Hi there! 👋
 
 ### Who am I?
-I'm **Ehteshamul Ghani**, a passionate Computer Science student with a love for building foundational projects in **Python**, **C**, and **C++**. Driven by curiosity and creativity, I'm constantly working to deepen my skills through practical, hands-on projects. Alongside my studies, I share my knowledge through small tutorials on YouTube, where I focus on coding and development concepts.
+I'm **M Ehteshamul Ghani**, also known as **Kabir**, a passionate Computer Science student exploring the endless possibilities of technology. With a strong foundation in **Python**, **C**, and **C++**, I enjoy building projects that bring ideas to life, combining logic with creativity.
+
+As I continue my journey, I’m delving into the world of **web development**, learning to craft intuitive and functional user experiences. Whether it’s designing sleek interfaces or coding robust backends, I’m excited about creating impactful solutions for the web.
+
+Beyond coding, I love sharing knowledge through small tutorials on YouTube, where I break down programming and development concepts into simple, digestible lessons. Everything I create proudly bears my tagline: *Made by Kabir*.
+
 
 ---
 
