@@ -1,30 +1,76 @@
-# Hi there! 👋
-
-### Who am I?
-I'm **Mohammad Ehteshamul Ghani**, also known as **Kabir**, a passionate Computer Science student exploring the endless possibilities of technology. With a strong foundation in **Python**, **C**, and **C++**, I enjoy building projects that bring ideas to life, combining logic with creativity.
-
-As I continue my journey, I’m delving into the world of **web development**, learning to craft intuitive and functional user experiences. Whether it’s designing sleek interfaces or coding robust backends, I’m excited about creating impactful solutions for the web.
-
-Beyond coding, I love sharing knowledge through small tutorials on YouTube, where I break down programming and development concepts into simple, digestible lessons. Everything I create proudly bears my tagline: *Made by Kabir*.
-
-
----
-### 💻 My Tech Stack
-- **Languages**: Python, C++ , C , HTML , CSS 
-
-### 🛠️ Key Projects:
-  - <mark>**Stone Paper Scissors Game**</mark> - A classic hand-gesture game recreated in Python.
-  - <mark>**Quiz Game**</mark> - An interactive quiz to test knowledge on various topics.
-  - <mark>**Word Guessing Game**</mark> - A guessing game where players must identify words within limited attempts.
-  - <mark>**Library Management System**</mark> - A C++ project that allows user authentication, book search by title, author, or ISBN, penalty calculation for late returns, and file handling for data persistence.
-  - <mark>**Personal Portfolio**</mark> - A personal website to showcase skills, projects, and achievements, with an interactive design to highlight professional experience.
-  - <mark>**Shopping Cart**</mark> - An e-commerce application that allows users to add, remove, and modify products in their shopping cart, with a checkout system.
-  - <mark>**Advanced Calculator**</mark> - A calculator with advanced mathematical
----
-
-### 🤝 Connect with Me
-- **LinkedIn**: [Linkedin Profile](https://www.linkedin.com/in/m-ehteshamul-ghani-175147274/)
+<h1 align="center">Hi👋, I'm Mohammad Ehteshamul Ghani</h1>
+<p align="center">
+  <em>First-year CS student | Aspiring Software Engineer | Tech Enthusiast</em>
+</p>
 
 ---
 
-Thanks for visiting! Feel free to explore my work and reach out if you'd like to collaborate.
+### 🌱 About Me
+
+- 🔭 I’m currently diving deep into **Web Development, DSA, AI, Blockchain & Open Source**
+- 🧠 Currently learning: `DSA`, `JavaScript`,`react.js`
+- 📚 I believe in lifelong learning and love building cool things with code.
+- 🧘‍♂️ “The moment you think you know everything is the moment when you need to be quiet and just learn new things.”
+
+---
+
+### 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eghani&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+---
+
+### 🚀 Projects
+
+> *I'll be showcasing 7 of my proudest projects here !*
+
+- 📌 `Advanced Calculator using C++` – A menu-driven CLI calculator that supports operations like addition, subtraction, multiplication, division, exponentiation, modulo, square root, and factorial.  
+[Source code](https://github.com/Eghani/Cpp-Projects/blob/main/Intermidiate%20projects/adv_calculator.cpp)
+
+- 📌 `Banking System using C++` – A simple command-line based banking system that allows deposits, withdrawals, and balance checks using object-oriented programming.  
+[Source Code](https://github.com/Eghani/Cpp-Projects/blob/main/Intermidiate%20projects/banking_sys.cpp)
+
+- 📌 `Smart Shopping Cart using C++` – A console-based cart system that allows users to add items, view the cart, calculate total cost, and apply a discount if the total exceeds ₹500.  
+[Source Code](https://github.com/Eghani/Cpp-Projects/blob/main/shopping%20cart/shopping_cart.cpp)
+
+- 📌 `Stone Paper Scissor Game` – A simple terminal-based Python game where the user competes with the computer in a classic game of Stone, Paper, Scissor.  
+[Source Code](https://github.com/Eghani/Python-projects/blob/main/stone_paper_scissor/stone_paper_scissor.py)
+
+- 📌 `To-Do List` – A simple Python program for managing tasks using functions. It allows the user to view, add, and remove tasks from a to-do list.  
+[Source Code](https://github.com/Eghani/Python-projects/blob/main/To_Do_list/to_do_list.py)
+- 📌 `Library Management System` – Working on a real website for managing library operations such as book issuing, returns, and tracking.  
+[GitHub - Coming Soon](#)
+- 📌 `Tic Tac Toe Game` – Developing a real Tic Tac Toe game where users can play against each other or the computer.  
+[GitHub - Coming Soon](#)
+
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: `ghaniehteshamul@gmail.com`
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-ehteshamul-ghani-175147274/)
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eghani&theme=tokyonight&hide_border=true&border_radius=10" alt="Eghani's GitHub streak" />
+</p>
+
+
+
+
+---
+
+<p align="center">🕊️ *Thanks for visiting! May your day be filled with peace and productivity.*</p>
