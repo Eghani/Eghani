@@ -1,14 +1,14 @@
 <h1 align="center">Hi👋, I'm Mohammad Ehteshamul Ghani</h1>
 <p align="center">
-  <em>First-year CS student | Aspiring Software Engineer | Tech Enthusiast</em>
+  <em>B.Tech CS student | On my way to become a Software Engineer | Enjoy learning about tech</em>
 </p>
 
 ---
 
 ### 🌱 About Me
 
-- 🔭 I’m currently diving deep into **Web Development, DSA, AI, Blockchain & Open Source**
-- 🧠 Currently learning: `DSA`, `JavaScript`,`react.js`
+- 🔭 I’m currently diving deep into **Web Development, DSA & Open Source**
+- 🧠 Currently learning: `DSA`, `Web development`
 - 📚 I believe in lifelong learning and love building cool things with code.
 - 🧘‍♂️ “The moment you think you know everything is the moment when you need to be quiet and just learn new things.”
 
@@ -30,7 +30,7 @@
 
 ### 🚀 Projects
 
-> *I'll be showcasing 7 of my proudest projects here !*
+> *I'll be showcasing 7 of my Recent projects here !*
 
 - 📌 `Advanced Calculator using C++` – A menu-driven CLI calculator that supports operations like addition, subtraction, multiplication, division, exponentiation, modulo, square root, and factorial.  
 [Source code](https://github.com/Eghani/Cpp-Projects/blob/main/Intermidiate%20projects/adv_calculator.cpp)
@@ -60,16 +60,3 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-ehteshamul-ghani-175147274/)
 
 ---
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eghani&theme=tokyonight&hide_border=true&border_radius=10" alt="Eghani's GitHub streak" />
-</p>
-
-
-
-
----
-
-<p align="center">🕊️ *Thanks for visiting! May your day be filled with peace and productivity.*</p>
