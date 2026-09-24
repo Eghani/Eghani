@@ -11,7 +11,7 @@
 
 ### 🤝 Let's Connect
 
-- 🗿 [Portfolio](https://www.ehteshamulghani.xyz/)
+- 🗿 [Portfolio](https://eghani.github.io/personal-portfolio/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-ehteshamul-ghani-175147274/)
 - 📧 Email: `ghaniehteshamul@gmail.com`
 
